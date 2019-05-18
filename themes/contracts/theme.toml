@@ -1,0 +1,12 @@
+name = "contracts"
+license = "MIT"
+licenselink = "https://github.com/AgileByte/contracts/blob/master/LICENSE"
+description = ""
+homepage = ""
+tags = []
+features = []
+min_version = 0.51
+
+[author]
+  name = "nekocode"
+  homepage = "https://github.com/nekocode"
